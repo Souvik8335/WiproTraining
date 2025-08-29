@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Souvik Ghosh",
+      "age": 22,
+      "email": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "my first post",
+      "content": "This is the content of my first post",
+      "userid": 1
+    }
+  ]
+}
