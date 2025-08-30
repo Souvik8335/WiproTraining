@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>MISHO</title>
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Misho</div>
+    <div class="header-controls">
+      <div class="search">
+        <input type="search" placeholder="Search products, brands..." />
+      </div>
+      <button class="btn icon-btn" id="wishlistBtn" aria-label="Wishlist">♡</button>
+      <button class="btn cart-btn" id="cartBtn">
+        🛒 <span class="cart-count">6</span>
+      </button>
+      <button class="btn primary" id="signinBtn">Sign in</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="filter-card">
+        <h4>Categories</h4>
+        <ul class="categories">
+          <li><label><input type="checkbox" /> Clothing</label></li>
+          <li><label><input type="checkbox" /> Electronics</label></li>
+          <li><label><input type="checkbox" /> Home</label></li>
+        </ul>
+      </div>
+      <div class="filter-card">
+        <h4>Price</h4>
+        <input type="range" min="0" max="500" value="200" />
+      </div>
+    </aside>
+
+    <section class="content">
+      <div class="toolbar">
+        <div class="results">Showing <strong>24</strong> results</div>
+        <div class="sort">
+          <label>Sort:</label>
+          <select>
+            <option>Popular</option>
+            <option>Newest</option>
+            <option>Price: Low → High</option>
+            <option>Price: High → Low</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="product-grid">
+        <!-- Repeat a product-card -->
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/Jeans1.jpg"  alt="Blue Jeans">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">20% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Stylish Jeans</h3>
+            <div class="p-meta">
+              <span class="price">₹1,499</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+         <article class="product-card">
+          <div class="media">
+            <img src="productimage/jeans4.jpg" alt="Jeans ripped">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">15% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">blue jeans</h3>
+            <div class="p-meta">
+              <span class="price">₹5,999</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/jeans3.jpg" alt="Stylish Jeans">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">20% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Stylish Jeans</h3>
+            <div class="p-meta">
+              <span class="price">₹3,499</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/71yfXYjiI9L._UY1100_.jpg" alt="Pant">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">20% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Ripped Jeans</h3>
+            <div class="p-meta">
+              <span class="price">₹2,199</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/airp.jpg" alt="Apple airpods">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">10% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Apple Airpods</h3>
+            <div class="p-meta">
+              <span class="price">₹22,499</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/iphone16.jpg" alt="Iphone 16">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">9% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Iphone 16(256gb)</h3>
+            <div class="p-meta">
+              <span class="price">₹72,499</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/apple-iphone-15-pro-max-2.jpg" alt="iphone-15-pro-max-">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">12% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">iphone 15 pro max(1TB)</h3>
+            <div class="p-meta">
+              <span class="price">₹1,72,499</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/Apple_16-inch-MacBook-Pro_.jpg" alt="Apple_16-inch-MacBook-Pro_">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">15% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Apple 16 inch MacBook Pro(512Gb SSd)</h3>
+            <div class="p-meta">
+              <span class="price">₹1,25,999</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/chair.jpg" alt="chair for room">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">50% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">Chair</h3>
+            <div class="p-meta">
+              <span class="price">₹5,499</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card">
+          <div class="media">
+            <img src="productimage/rounddiningtable.jpg" alt="Round Dining Table">
+            <button class="btn quick">Quick view</button>
+            <span class="badge">30% OFF</span>
+          </div>
+          <div class="p-info">
+            <h3 class="p-title">round-dining-table-</h3>
+            <div class="p-meta">
+              <span class="price">₹15,999</span>
+              <button class="btn add">Add</button>
+            </div>
+          </div>
+        </article>
+        <!-- add more cards... -->
+      </div>
+    </section>
+  </main>
+
+  <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
+    <header class="drawer-header">
+      <h3>Your Cart</h3>
+      <button class="btn icon-btn" id="closeCart">✕</button>
+    </header>
+    <div class="drawer-body">
+      <div class="empty">No items yet</div>
+    </div>
+    <footer class="drawer-footer">
+      <div class="subtotal">Subtotal: <strong>₹0</strong></div>
+      <button class="btn primary block">Checkout</button>
+    </footer>
+  </aside>
+
+  <footer class="site-footer">
+    <div>@Misho-You Think it we Have It❤️</div>
+  </footer>
+
+  <script>
+    // minimal interactivity for demo
+    const cartBtn = document.getElementById('cartBtn');
+    const cartDrawer = document.getElementById('cartDrawer');
+    const closeCart = document.getElementById('closeCart');
+    cartBtn?.addEventListener('click', () => {
+      cartDrawer.style.transform = 'translateX(0)';
+      cartDrawer.setAttribute('aria-hidden','false');
+    });
+    closeCart?.addEventListener('click', () => {
+      cartDrawer.style.transform = '';
+      cartDrawer.setAttribute('aria-hidden','true');
+    });
+  </script>
+</body>
+</html>
