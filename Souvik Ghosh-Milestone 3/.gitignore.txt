@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+
+/Souvik_Ghosh-Milestone3/**/bin/
+/Souvik_Ghosh-Milestone3/**/obj/
