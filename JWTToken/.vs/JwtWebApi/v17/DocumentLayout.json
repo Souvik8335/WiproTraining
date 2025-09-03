@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\models\\modellist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\models\\modellist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\jwtwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\jwtwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\vivek\\desktop\\jwtwebapi\\jwttoken\\jwtwebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067F746-26D9-44D6-A4EF-667139F2DF5B}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Program.cs",
+              "RelativeToolTip": "JwtWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:40:37.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "JwtWebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:38:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "JwtWebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:37:46.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelList.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Models\\ModelList.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Models\\ModelList.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Models\\ModelList.cs",
+              "RelativeToolTip": "JwtWebApi\\Models\\ModelList.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:33:27.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\appsettings.json",
+              "RelativeToolTip": "JwtWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T00:41:18.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:35:23.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JwtWebApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:42:28.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\JwtWebApi.csproj",
+              "RelativeDocumentMoniker": "JwtWebApi\\JwtWebApi.csproj",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\JwtWebApi\\JWTToken\\JwtWebApi\\JwtWebApi.csproj",
+              "RelativeToolTip": "JwtWebApi\\JwtWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T00:39:30.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
