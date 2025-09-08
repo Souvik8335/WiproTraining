@@ -1,0 +1,50 @@
+@model Model.Images
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+
+<h4>Images</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ImagesId" />
+            <div class="form-group">
+                <label asp-for="ImagePath" class="control-label"></label>
+                <input asp-for="ImagePath" class="form-control" />
+                <span asp-validation-for="ImagePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QuestionsId" class="control-label"></label>
+                <select asp-for="QuestionsId" class="form-control" asp-items="ViewBag.QuestionsId"></select>
+                <span asp-validation-for="QuestionsId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnswersId" class="control-label"></label>
+                <select asp-for="AnswersId" class="form-control" asp-items="ViewBag.AnswersId"></select>
+                <span asp-validation-for="AnswersId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>
